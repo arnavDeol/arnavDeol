@@ -1,5 +1,8 @@
-### Hi there 👋 I'm Arnav Deol
-### swag
+## Hi there 👋 I'm Arnav Deol
+
+### I'm studying CS at Michigan State University
+ - I have experience with python, C++, C, and Java
+ - I can be reached at deolarna@msu.edu
 
 <!--
 **arnavDeol/arnavDeol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
