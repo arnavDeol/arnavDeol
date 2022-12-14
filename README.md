@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Arnav Deol
-      **I'm currently studying Computer Science at Michigan State University**
+### swag
 
 <!--
 **arnavDeol/arnavDeol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
